@@ -1,0 +1,11 @@
+Model Information:
+* title:	Think Green Bulb
+* source:	https://sketchfab.com/3d-models/think-green-bulb-39046a8e8d4449a9b7c94a4cfd51d455
+* author:	MrSketch1230 (https://sketchfab.com/MrSketch1230)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Think Green Bulb" (https://sketchfab.com/3d-models/think-green-bulb-39046a8e8d4449a9b7c94a4cfd51d455) by MrSketch1230 (https://sketchfab.com/MrSketch1230) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
